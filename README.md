@@ -5,7 +5,7 @@
 This project aims to predict autism spectrum disorder (ASD) using machine learning models. The project analyzes a dataset containing various features, including survey scores (A1-A10), demographic information (age, gender, ethnicity), and other relevant indicators (jaundice, austim, relation).
 
 
-#Key Steps:
+# Key Steps:
 
 Data Preprocessing: The notebook handles missing values in ethnicity and relation columns. It converts categorical data to numerical format using LabelEncoder. Outliers in age and result columns are addressed using the median.
 
